@@ -24,6 +24,11 @@
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
     </style>
+    <style name="AppTheme" parent="@android:style/Theme.Material" tools:targetApi="lollipop">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+    </style>
 
 
 </resources>
