@@ -1,3 +1,3 @@
 = XYZ Reader Starter Code
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+This repository is part of my Android developers nanodgree this app uses the Design support Library to make the ui better. the app uses a ** CoordinatorLayout ** for the Main Activity. this app extends from Appcompat activity. a ** floatingActionButton ** is used to share sample text. this app is used to show the importance of making the ui great.
