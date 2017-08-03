@@ -1,3 +1,4 @@
 = XYZ Reader Starter Code
 
 This repository is part of my Android developers nanodgree this app uses the Design support Library to make the ui better. the app uses a ** CoordinatorLayout ** for the Main Activity. this app extends from Appcompat activity. a ** floatingActionButton ** is used to share sample text. this app is used to show the importance of making the ui great.
+ ![screenshot_20170513-170748 1](https://user-images.githubusercontent.com/22920539/28931702-e6e57ea0-7844-11e7-956c-74311f266dad.png)
